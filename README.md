@@ -4,7 +4,7 @@ Copy paste the following in to your `styles.less` file.
 
 - Menu > Atom > Stylesheet...
 
-```css
+```less
 /*
  * Your Stylesheet
  *
